@@ -1,4 +1,4 @@
-# Dark Particle Website-Boilerplate
+# Dark Particle Website Boilerplate
 
 ## Preview - [Demo](https://sitdisch.github.io/Dark-Particle/ "Go there")
 
