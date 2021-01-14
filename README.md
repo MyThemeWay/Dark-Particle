@@ -1,10 +1,10 @@
-# Dark Particle Jekyll Theme Boilerplate
+# Dark Particle Website-Boilerplate
 
 ## Preview - [Demo](https://sitdisch.github.io/Dark-Particle/ "Go there")
 
 <a title="Go there" target="_blank" href="https://sitdisch.github.io/Dark-Particle/"><img alt="Dark-Particle" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/Dark_collage.gif" ></a>
 
-This simple dark jekyll theme boilerplate combines Jekyll, Webpack, Bootstrap and much more:
+This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much more:
 
 <a title="Go there" target="_blank" href="https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#features"><img alt="Particle-Features" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/particle-features.png" ></a>
 
