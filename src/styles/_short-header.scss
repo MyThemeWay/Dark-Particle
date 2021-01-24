@@ -27,6 +27,7 @@
     }
     @media (pointer:coarse) {
       &.pressed {
+        width: 79px;
         @include hover-img-style;
       }
     }
@@ -254,6 +255,11 @@
           width: 99px;
         }
       }
+      @media (pointer:coarse) {
+        &.pressed {
+          width: 99px;
+        }
+      }
     }
   }
   .short-header-icons {
@@ -358,6 +364,11 @@
           width: 79px;
         }
       }
+      @media (pointer:coarse) {
+        &.pressed {
+          width: 79px;
+        }
+      }
     }
   }
   .short-header-icons {
@@ -458,6 +469,11 @@
       width: 144px;
       @media (pointer:fine) {
         &:hover {
+          width: 147px;
+        }
+      }
+      @media (pointer:coarse) {
+        &.pressed {
           width: 147px;
         }
       }
