@@ -1,4 +1,9 @@
 # Dark Particle Website Boilerplate
+<a href="https://github.com/sitdisch/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/sitdisch/Dark-Particle/CodeQL?logo=github&label=CodeQL" /></a>
+<a href="https://github.com/sitdisch/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img src="https://img.shields.io/github/deployments/sitdisch/Dark-Particle/github-pages?logo=github&label=State" /></a>
+<img src="https://img.shields.io/github/checks-status/sitdisch/Dark-Particle/master?logo=github&label=Checks" />
+<a title="Check it out" target="_blank" href="https://sitdisch.github.io/Dark-Particle/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsitdisch.github.io/Dark-Particle&label=Website" /></a>
+<img src="https://img.shields.io/github/repo-size/sitdisch/Dark-Particle?label=Repo Size" />
 
 ## Preview - [Demo](https://sitdisch.github.io/Dark-Particle/ "Go there")
 
@@ -8,7 +13,7 @@ This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much
 
 <a title="Go there" target="_blank" href="https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#features"><img alt="Particle-Features" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/particle-features.png" ></a>
 
-For a bright version look [here](https://sitdisch.github.io/mythemeway/2020/11/01/light-particle.html "Go there"). You can use it as a starting template to make your web appearance, blogging and portfolio awesome. It's based heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there"), [Nathan Randecker](https://github.com/nrandecker/particle "Go there") (original repository) and me [Sitdisch](https://github.com/sitdisch "Go there").
+For a bright version look [here](https://github.com/MyThemeWay/Light-Particle). You can use it as a starting template to make your web appearance, blogging and portfolio awesome. It's based heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there"), [Nathan Randecker](https://github.com/nrandecker/particle "Go there") (original repository) and me [Sitdisch](https://github.com/sitdisch "Go there").
 
 For more information about this boilerplate look here:
 - [Local Running](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#local-running "Go there")
