@@ -1,13 +1,15 @@
 # Dark Particle Website Boilerplate
-<a href="https://github.com/sitdisch/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/sitdisch/Dark-Particle/CodeQL?logo=github&label=CodeQL" /></a>
-<a href="https://github.com/sitdisch/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img src="https://img.shields.io/github/deployments/sitdisch/Dark-Particle/github-pages?logo=github&label=State" /></a>
-<img src="https://img.shields.io/github/checks-status/sitdisch/Dark-Particle/master?logo=github&label=Checks" />
-<a title="Check it out" target="_blank" href="https://sitdisch.github.io/Dark-Particle/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fsitdisch.github.io/Dark-Particle&label=Website" /></a>
-<img src="https://img.shields.io/github/repo-size/sitdisch/Dark-Particle?label=Repo Size" />
+<a href="https://github.com/mythemeway/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img src="https://img.shields.io/github/workflow/status/mythemeway/Dark-Particle/CodeQL?logo=github&label=CodeQL" /></a>
+<a href="https://github.com/mythemeway/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img src="https://img.shields.io/github/deployments/mythemeway/Dark-Particle/github-pages?logo=github&label=State" /></a>
+<img src="https://img.shields.io/github/checks-status/mythemeway/Dark-Particle/master?logo=github&label=Checks" />
+<a title="Check it out" target="_blank" href="https://mythemeway.github.io/Dark-Particle/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmythemeway.github.io/Dark-Particle&label=Website" /></a>
+<a title="Check it out" target="_blank" href="https://observatory.mozilla.org/analyze/mythemeway.github.io?third-party=false"><img src="https://img.shields.io/mozilla-observatory/grade/mythemeway.github.io?logo=mozilla&label=Observatory" /></a>
+<img src="https://img.shields.io/github/repo-size/mythemeway/Dark-Particle?label=RepoSize" />
+<img src="https://img.shields.io/github/repo-size/mythemeway/mythemeway.github.io?label=BuildSize" />
 
-## Preview - [Demo](https://sitdisch.github.io/Dark-Particle/ "Go there")
+## Preview - [Demo](https://mythemeway.github.io/Dark-Particle/ "Go there")
 
-<a title="Go there" target="_blank" href="https://sitdisch.github.io/Dark-Particle/"><img alt="Dark-Particle" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/Dark_collage.gif" ></a>
+<a title="Go there" target="_blank" href="https://mythemeway.github.io/Dark-Particle/"><img alt="Dark-Particle" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/Dark_collage.gif" ></a>
 
 This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much more:
 

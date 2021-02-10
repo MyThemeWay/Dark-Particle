@@ -5,7 +5,7 @@
   "description": "Package of Dark-Particle",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sitdisch/dark-particle"
+    "url": "https://github.com/mythemeway/dark-particle"
   },
   "license": "MIT",
   "scripts": {
