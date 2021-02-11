@@ -21,9 +21,11 @@ For a bright version look [here](https://github.com/MyThemeWay/Light-Particle "G
 
 You can use one of these boilerplates as a starting template to make your web appearance, blogging and portfolio awesome. They base heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there"), [Nathan Randecker](https://github.com/nrandecker/particle "Go there") (original repository) and me [Sitdisch](https://github.com/sitdisch "Go there").
 
-For more information about this boilerplate look at my personal GitHub page here:
+For more information about this boilerplate, and to see what's possible, take a look at my personal GitHub page here:
 - Enable [Local Running](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#local-running "Go there")
 - [Customization](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#customization "Go there")
 - [Setup at GitHub Pages](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#setup-at-github-pages "Go there")
+
+P.s. don't be afraid of the cookie consent window on my website. I don't record your personal data. It's only necessary to satisfy the lawyers out there.
 
 Have a nice day.
