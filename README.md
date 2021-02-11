@@ -15,14 +15,14 @@ This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much
 
 <a title="Go there" target="_blank" href="https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#features"><img alt="Particle-Features" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/particle-features.png" ></a>
 
-For a bright version look [here](https://github.com/MyThemeWay/Light-Particle).
+For a bright version look [here](https://github.com/MyThemeWay/Light-Particle "Go there"):
 
-<a href="https://github.com/mythemeway/Dark-Particle" title="Check it out" target="_blank"><img src="https://repository-images.githubusercontent.com/324961883/45151580-4cea-11eb-9e3a-45882478a112" /></a>
+<a href="https://github.com/mythemeway/Light-Particle" title="Check it out" target="_blank"><img src="https://repository-images.githubusercontent.com/337746380/f0509e80-6bb5-11eb-9bab-59ccf55c3601" /></a>
 
-You can use both as a starting template to make your web appearance, blogging and portfolio awesome. They base heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there"), [Nathan Randecker](https://github.com/nrandecker/particle "Go there") (original repository) and me [Sitdisch](https://github.com/sitdisch "Go there").
+You can use one of these boilerplates as a starting template to make your web appearance, blogging and portfolio awesome. They base heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there"), [Nathan Randecker](https://github.com/nrandecker/particle "Go there") (original repository) and me [Sitdisch](https://github.com/sitdisch "Go there").
 
-For more information about this boilerplate look here:
-- [Local Running](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#local-running "Go there")
+For more information about this boilerplate look at my personal GitHub page here:
+- Enable [Local Running](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#local-running "Go there")
 - [Customization](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#customization "Go there")
 - [Setup at GitHub Pages](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#setup-at-github-pages "Go there")
 
