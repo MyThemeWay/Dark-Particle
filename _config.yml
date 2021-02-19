@@ -27,6 +27,7 @@ google_site_verification: # your meta tag (no quotation marks)
 
 # SITE BUILDING SETTINGS
 destination: docs
+keep_files: ['assets']
 exclude: [
   'src',
   'node_modules',
