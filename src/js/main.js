@@ -15,15 +15,6 @@
 // OTHER VARIABLES
 var firstIteration = "1";
 
-// VARIABLES FOR TOUCH AND NOTOUCH DEVICES
-if ( window.matchMedia("(pointer: coarse)").matches )  {
-        // pressSimulationTime for touch devices
-        var pressSimulationTime = 400;
-} else {
-        // pressSimulationTime for notouch devices
-        var pressSimulationTime = 175;
-}
-
 // NAVBAR VARIABLES
 var nav = document.getElementById('navbar');
 var dropdownArrows = document.getElementsByClassName('dropdown-toggle');
@@ -51,6 +42,19 @@ if ( /\//.test(currentPath) ) {
         // highlight the navbarLink, if it is the only one on the current page
         var navbarLink = document.getElementsByClassName('navbar-link-' + /[^\/]*(?=\.html$)/.exec(location.pathname));
         navbarLink[0].style.color="orange";
+}
+
+// DISTINCTION WHETHER TOUCH IS POSSIBLE
+if ( window.matchMedia("(pointer: coarse)").matches )  {
+        // pressSimulationTime for touch devices
+        var pressSimulationTime = 400;
+} else {
+        // pressSimulationTime for notouch devices
+        var pressSimulationTime = 175;
+        // adaption after resize only for notouch devices
+        window.onresize = function () {
+                setTimeout(function () { location.reload() }, 100);
+        }
 }
 
 // 
