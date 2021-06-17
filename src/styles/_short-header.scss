@@ -180,8 +180,6 @@
   }
   .dropdown-menu {
     @include background-style-green;
-    margin-top: 5%;
-    margin-left: -85%;
   }
   .dropdown-item {
     font-size: 13px;
@@ -568,9 +566,6 @@
           font-size: 23px;
         }
       }
-    }
-    .dropdown-menu {
-      margin-top: 8%;
     }
   }
 }

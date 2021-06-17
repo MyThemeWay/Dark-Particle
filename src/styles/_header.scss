@@ -182,8 +182,6 @@
   .dropdown-menu {
     @include background-style-green;
     line-height: 1.5;
-    margin-top: 5%;
-    margin-left: -85%;
   }
   .dropdown-item {
     font-size: 13px;
@@ -408,11 +406,6 @@
         }
       }
     }
-    .dropdown-menu {
-      line-height: 1.6;
-      margin-top: 8%;
-      padding-right: 3%;
-    }
     .dropdown-item {
       font-size: 22px;
       @media (pointer:fine) {
@@ -514,11 +507,6 @@
           line-height: 1;
         }
       }
-    }
-    .dropdown-menu {
-      line-height: 1.6;
-      margin-top: 7%;
-      padding-right: 3%;
     }
     .dropdown-item {
       font-size: 18px;
@@ -622,10 +610,6 @@
           line-height: 1;
         }
       }
-    }
-    .dropdown-menu {
-      line-height: 1.6;
-      margin-top: 7%;
     }
     .dropdown-item {
       font-size: 16px;
@@ -743,10 +727,6 @@
           line-height: 1.15;
         }
       }
-    }
-    .dropdown-menu {
-      line-height: 1.5;
-      margin-top: 5%;
     }
     .dropdown-item {
       font-size: 13px;
