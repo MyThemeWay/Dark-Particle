@@ -30,7 +30,7 @@
 
 This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much more:
 
-## Feature Overview
+## Feature Overview (clickable)
 <div align="center">
 	<a href="https://github.com/npm/cli" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/npm--blue.svg?logo=npm"/></a>
 	<a href="https://www.npmjs.com/package/jquery" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/jQuery--blue.svg?logo=jquery"/></a>
@@ -46,24 +46,24 @@ This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much
 	<a href="https://github.com/JulianLaval/canvas-particle-network" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/canvas_particle_network.svg"/></a>
 	<a href="https://www.npmjs.com/package/sweet-scroll" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/sweet_scroll.svg"/></a>
 	<a href="https://github.com/devicons/devicon" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/devicon.svg"/></a>
-	<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/navbar_%26_scrollspy.svg"/>
-	<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/follow_buttons.svg"/>
-	<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/screen_size_adaption.svg"/>
-	<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/local_hosting_%26_development.svg"/>
-	<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/cross_browser_%26_device_presentation.svg"/>
+	<a href="#feature-overview-clickable" title="Not linked" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/navbar_%26_scrollspy.svg"/></a>
+	<a href="#feature-overview-clickable" title="Not linked" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/follow_buttons.svg"/></a>
+	<a href="#feature-presentation-screen-size-adaption" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/screen_size_adaption.svg"/></a>
+	<a href="#feature-overview-clickable" title="Not linked" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/local_hosting_%26_development.svg"/></a>
+	<a href="#feature-overview-clickable" title="Not linked" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/cross_browser_%26_device_presentation.svg"/></a>
 </div>
 
-### [master](https://github.com/MyThemeWay/Dark-Particle "Go there")
+### [master branch](https://github.com/MyThemeWay/Dark-Particle/tree/master "Check it out")
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/webpack"><img src="https://img.shields.io/github/package-json/dependency-version/mythemeway/dark-particle/webpack?label=webpack&logo=webpack" /></a>
 <a title="Check it out" target="_blank" href="https://www.npmjs.com/package/bootstrap"><img src="https://img.shields.io/github/package-json/dependency-version/mythemeway/dark-particle/bootstrap?label=Bootstrap&logo=bootstrap" /></a>
-<a href="https://www.npmjs.com/package/sass" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/SASS-Dart-blue.svg?logo=sass"/></a>
+<a href="https://www.npmjs.com/package/sass" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/Sass-Dart-blue.svg?logo=sass"/></a>
 <a href="https://www.npmjs.com/package/image-minimizer-webpack-plugin" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/imageminimizerwebpackplugin.svg"/></a>
 <a href="https://www.npmjs.com/package/css-minimizer-webpack-plugin" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/cssminimizerwebpackplugin.svg"/></a>
 
 ### [v1.0](https://github.com/MyThemeWay/Dark-Particle/releases/tag/v1.0 "Go there")
 <a href="https://www.npmjs.com/package/webpack" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/webpack-4.44.2-blue.svg?logo=webpack"/></a>
 <a href="https://www.npmjs.com/package/bootstrap" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-4.6.0-blue.svg?logo=bootstrap"/></a>
-<a href="https://www.npmjs.com/package/node-sass" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/SASS-Node-blue.svg?logo=sass"/></a>
+<a href="https://www.npmjs.com/package/node-sass" title="Check it out" target="_blank"><img src="https://img.shields.io/badge/Sass-Node-blue.svg?logo=sass"/></a>
 <a href="https://www.npmjs.com/package/image-webpack-loader" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/image_webpack_loader.svg"/></a>
 <a href="https://www.npmjs.com/package/optimize-css-assets-webpack-plugin" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/optimize_css_assets_webpack_plugin.svg"/></a>
 
@@ -71,9 +71,9 @@ This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much
 
 ## Feature Presentation: Screen size adaption
 
-<img alt="Header" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_header.gif" >
-<img alt="About" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_about.gif" >
-<img alt="Projects" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_projects.gif" >
+<!-- <img alt="Header" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_header.gif" > -->
+<!-- <img alt="About" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_about.gif" > -->
+<!-- <img alt="Projects" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_projects.gif" > -->
 
 ## Other Version
 
