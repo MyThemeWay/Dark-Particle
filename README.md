@@ -71,9 +71,9 @@ This dark theme website-boilerplate combines Jekyll, Webpack, Bootstrap and much
 
 ## Feature Presentation: Screen size adaption
 
-<!-- <img alt="Header" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_header.gif" > -->
-<!-- <img alt="About" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_about.gif" > -->
-<!-- <img alt="Projects" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_projects.gif" > -->
+<img alt="Header" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_header.gif" >
+<img alt="About" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_about.gif" >
+<img alt="Projects" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_projects.gif" >
 
 ## Other Version
 
