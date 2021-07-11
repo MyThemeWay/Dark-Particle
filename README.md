@@ -47,7 +47,7 @@
 <a title="Check Snyk out" target="_blank" href="https://snyk.io/"><img width=210 src="https://img.shields.io/badge/Snyk-Vulnerabilities-2A2E30.svg?logo=snyk" /></a>
 
 <div>
-<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img preload height=35 src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?label=" /></a><br>
+<a title="Explore it" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle"><img loading="eager" preload height=35 src="https://img.shields.io/snyk/vulnerabilities/github/mythemeway/dark-particle?label=" /></a><br>
 <b>Full Report: <a title="Check it out" target="_blank" href="https://snyk.io/test/github/MyThemeWay/Dark-Particle">Last&nbsp;One</a></b>
 <details><summary><b>Example</b></summary>
 <img alt="Snyk Report Example" src="https://raw.githubusercontent.com/sitdisch/cloud/master/images/snyk_darkparticle_results.png" />
@@ -136,6 +136,8 @@ This dark theme website-boilerplate combines Webpack, Jekyll, Bootstrap and much
 	</details><p>
 </div>
 
+> Created with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
+
 ## Feature Presentation: Screen size adaption
 
 <img alt="Header" src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/screenAdaption_header.gif" >
@@ -150,7 +152,7 @@ For a bright version look [here](https://github.com/MyThemeWay/Light-Particle "G
 
 ## More Information
 
-You can use one of these boilerplates as a starting template to make your web appearance, blogging and portfolio awesome. They base heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there") [License: [MIT](https://github.com/s-arsenault/s-arsenault.github.io/blob/master/LICENSE.txt "Go there")], [Nathan Randecker](https://github.com/nrandecker/particle "Go there") [License: [MIT](https://github.com/nrandecker/particle/blob/master/LICENSE.txt "Go there"); Copyright (c) 2016 Nathan Randecker] and me [Sitdisch](https://github.com/sitdisch "Go there").
+You can use one of these boilerplates as a starting template to make your web appearance, blogging and portfolio awesome. They base heavily on the magnificent work of [Stephen Arsenault](https://github.com/s-arsenault/s-arsenault.github.io "Go there") [License: [MIT](https://github.com/s-arsenault/s-arsenault.github.io/blob/master/LICENSE.txt "Go there")], [Nathan Randecker](https://github.com/nrandecker/particle "Go there") [License: [MIT](https://github.com/nrandecker/particle/blob/master/LICENSE.txt "Go there"); Copyright ©️ 2016 Nathan Randecker] and me [Sitdisch](https://github.com/sitdisch "Go there").
 
 For more information about this boilerplate, and to see what's possible, take a look at my personal GitHub page here:
 - Enable [Local Running](https://sitdisch.github.io/mythemeway/2020/11/01/dark-particle.html#local-running "Go there")
