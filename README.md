@@ -1,5 +1,5 @@
-<h1 align="center">Dark Particle Website Boilerplate</h1>
 <div align="center">
+<h1>Dark Particle Website Boilerplate</h1>
 <a href="https://github.com/mythemeway/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img height=25 src="https://img.shields.io/github/workflow/status/mythemeway/Dark-Particle/CodeQL?logo=github&label=CodeQL" /></a>
 <a href="https://github.com/mythemeway/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img height=25 src="https://img.shields.io/github/deployments/mythemeway/Dark-Particle/github-pages?logo=github&label=State" /></a>
 <img height=25 src="https://img.shields.io/github/checks-status/mythemeway/Dark-Particle/master?logo=github&label=Checks" />
@@ -17,10 +17,10 @@
 <b>Full Reports:</b> <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/desktop/mythemeway_github_io_dark_particle_.html" title="Check it out" target="_blank">Main Page </a> | <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/desktop/mythemeway_github_io_dark_particle_projects_2020_10_31_project_1_html.html" title="Check it out" target="_blank">Project Page</a>
 
 <details><summary><b>Mobile (click to toggle)</b></summary><br>
-<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/pagespeed.svg" /><p>
+<img src="https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/pagespeed.svg" /><p></p>
 
 <b>Full Reports:</b> <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/mythemeway_github_io_dark_particle_.html" title="Check it out" target="_blank">Main Page </a> | <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/sitdisch/cloud/master/lighthouse_results/dark_particle/mobile/mythemeway_github_io_dark_particle_projects_2020_10_31_project_1_html.html" title="Check it out" target="_blank">Project Page</a>
-</details><p>
+</details><p></p>
 
 ~ Created with [Lighthouse-Badger](https://github.com/myactionway/lighthouse-badger-action "Get it") :badger: :tokyo_tower: :medal_military: ~
 
@@ -133,7 +133,7 @@ This dark theme website-boilerplate combines Webpack, Jekyll, Bootstrap and much
 	<a href="https://github.com/sass/node-sass" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<a href="https://github.com/tcoopman/image-webpack-loader" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=tcoopman&repo=image-webpack-loader&text_color=F1F1EB&border_color=050B0E&bg_color=212426&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
 	<a href="https://github.com/NMFR/optimize-css-assets-webpack-plugin" title="Explore this" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NMFR&repo=optimize-css-assets-webpack-plugin&text_color=F1F1EB&border_color=050B0E&bg_color=2A2E30&title_color=FFFFFF&icon_color=E28905" /></a><span> </span>
-	</details><p>
+	</details><p></p>
 </div>
 
 > Created with [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
@@ -146,7 +146,7 @@ This dark theme website-boilerplate combines Webpack, Jekyll, Bootstrap and much
 
 ## Other Version
 
-For a bright version look [here](https://github.com/MyThemeWay/Light-Particle "Go there"):
+You can get a bright version [here](https://github.com/MyThemeWay/Light-Particle "Go there"):
 
 <a href="https://github.com/mythemeway/Light-Particle" title="Check it out" target="_blank"><img src="https://repository-images.githubusercontent.com/337746380/f0509e80-6bb5-11eb-9bab-59ccf55c3601" /></a>
 
