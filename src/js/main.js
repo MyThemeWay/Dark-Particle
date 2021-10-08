@@ -52,7 +52,7 @@ if ( window.matchMedia("(pointer: coarse)").matches )  {
         var pressSimulationTime = 175;
         // adaption after resize only for notouch devices
         window.onresize = function () {
-                setTimeout(function () { location.reload() }, 100);
+                setTimeout( () => { location.reload() }, 100);
         }
 }
 
@@ -65,7 +65,7 @@ function setupHashPage() {
         window.scrollBy(0, hashOffset);
         var hrefReplaceHash = location.href.replace(location.hash,"");
         history.pushState({},'reset_hash', hrefReplaceHash);
-        setTimeout(function (){nav.setAttribute('data-hide','false')}, 700);
+        setTimeout( () => {nav.setAttribute('data-hide','false')}, 700);
 };
 
 function disNavbar() {
@@ -81,7 +81,7 @@ function disNavbar() {
 
 window.pressSimulation = function(element,time) {
         element.classList.add("pressed");
-        setTimeout(function () {
+        setTimeout( () => {
                 element.classList.remove("pressed");
         }, time);
 }
@@ -90,7 +90,7 @@ function pressDelay(ev) {
         ev.preventDefault();
         ev.stopImmediatePropagation();
         ev.stopPropagation();
-        setTimeout( function() {
+        setTimeout(  () => {
                 ev.target.click();
         }, 400);
         firstIteration = "0";
@@ -110,7 +110,7 @@ window.onload = function () {
         if ( location.hash ) {
                 setTimeout(setupHashPage, 100);
         } else {
-                setTimeout(function (){nav.setAttribute('data-hide','false')}, 500);
+                setTimeout( () => {nav.setAttribute('data-hide','false')}, 500);
         }
 };
 
