@@ -7,6 +7,7 @@
 <img height=25 src="https://img.shields.io/github/languages/code-size/mythemeway/Dark-Particle?label=CodeSize" />
 <img height=25 src="https://img.shields.io/github/repo-size/mythemeway/Dark-Particle?label=RepoSize" />
 <img height=25 src="https://img.shields.io/github/repo-size/mythemeway/mythemeway.github.io?label=BuildSize" />
+<a title="Check it out" target="_blank" href="https://github.com/mythemeway/dark-particle/releases"><img height=25 src="https://img.shields.io/github/v/release/mythemeway/dark-particle?label=LastRelease" /></a><br>
 <br><br>
 
 <a title="Check Lighthouse out" target="_blank" href="https://github.com/GoogleChrome/lighthouse"><img width=275 src="https://img.shields.io/badge/Lighthouse-Average_Results-2A2E30.svg?logo=lighthouse" /></a><br>
@@ -99,7 +100,7 @@ This dark theme website-boilerplate combines Webpack, Jekyll, Bootstrap and much
 <a href="https://www.npmjs.com/package/imagemin" title="Check it out" target="_blank"><img height=26 src="https://img.shields.io/badge/imagemin-svgo-blue.svg"/></a>
 <a href="https://www.npmjs.com/package/chokidar" title="Check it out" target="_blank"><img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/chokidar--blue.svg"/></a>
 <a href="https://www.npmjs.com/package/css-minimizer-webpack-plugin" title="Check it out" target="_blank"><img height=26 src="https://raw.githubusercontent.com/sitdisch/cloud/master/badges/particle/cssminimizerwebpackplugin.svg"/></a>
-> <b>Note</b>: <b>imagemin</b>-<b>gifsicle</b>, -<b>pngquant</b> & -<b>mozjpeg</b> are better and faster than <b>Squoosh</b>, but are deactivated by default due to currently unresolved vulnerabilities. Feel free to change this here: [<b>watcher.config.mjs</b>](https://github.com/MyThemeWay/Dark-Particle/blob/master/watcher.config.mjs "Go there").
+> <b>Note</b>: <b>imagemin</b>-<b>mozjpeg</b>, -<b>pngquant</b> & -<b>gifsicle</b> are deactivated by default due to currently unresolved vulnerabilities. Feel free to change this here [<b>watcher.config.mjs</b>](https://github.com/MyThemeWay/Dark-Particle/blob/master/watcher.config.mjs "Go there") (e.&nbsp;g. <b>imagemin</b>-<b>pngquant</b> is faster than <b>Squoosh</b>-<b>oxipng</b>).
 
 ### [Releases](https://github.com/MyThemeWay/Dark-Particle/releases "Go there"): [v1.0](https://github.com/MyThemeWay/Dark-Particle/releases/tag/v1.0 "Go there") > [v2.0](https://github.com/MyThemeWay/Dark-Particle/releases/tag/v2.0 "Go there") > [v3.0](https://github.com/MyThemeWay/Dark-Particle/releases/tag/v3.0 "Go there")
 <a href="https://www.npmjs.com/package/webpack" title="Check it out" target="_blank"><img height=26 src="https://img.shields.io/badge/webpack-4.44_>_5.40_>_5.58-blue.svg?logo=webpack"/></a>
@@ -202,6 +203,6 @@ Have a nice day.
 > * The linked pages were checked for possible legal violations at the time of linking and illegal content wasn't discernible. A permanent control of the linked pages is unreasonable without concrete evidence of an infringement. However, if the README operator becomes aware of such a violation, he will act immediately. 
 
 ### Readme uses
-> * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright © 2021 Anurag Hazra]
+> * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats "Check it out") [License: [MIT](https://github.com/anuraghazra/github-readme-stats/blob/master/LICENSE "Go there"); Copyright ©️ 2021 Anurag Hazra]
 > * [Shields.io](https://github.com/badges/shields "Check it out") [License: [CC0 1.0](https://github.com/badges/shields/blob/master/LICENSE "Go there")] 
 > * [Simple Icons](https://simpleicons.org/ "Check it out") [License: [CC0 1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md "Go there")]
