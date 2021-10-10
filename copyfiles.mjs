@@ -8,7 +8,7 @@
  *
  */
 
-import * as fs from 'fs-extra';
+import { copy } from 'fs-extra';
 
 const copyfiles = [
   {
@@ -40,7 +40,7 @@ const copyfiles = [
 
 copyfiles.forEach(copyfile => {
   copyfile.files.forEach(file => {
-    fs.copy(`${copyfile.source}/${file}`, `${copyfile.target}/${file}`)
+    copy(`${copyfile.source}/${file}`, `${copyfile.target}/${file}`)
       .catch(err => console.error(err))
   });
 });
