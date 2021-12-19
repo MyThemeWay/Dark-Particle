@@ -25,19 +25,6 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2A3E42', endColorstr='#213134',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
-@mixin header-style {
-  @include background-style-brown-dark;
-  z-index: 50;
-  position: absolute;
-  box-shadow: 4px 4px 6px rgba(70, 70, 70, 0.4);
-  border-style: groove;
-  border-width: 1px;
-  border-bottom-style: ridge;
-  border-right-style: ridge;
-  border-color: grey;
-  border-radius: 7px;
-}
-
 @mixin card-style {
   @include background-style-brown-dark;
   box-shadow: 4px 4px 6px rgba(70, 70, 70, 0.4);
@@ -72,10 +59,10 @@
   border-radius: 6px;
   color: #ffffff;
   font-size: 27px;
-  -webkit-transition: all .3s;
-  -moz-transition: all .3s;
-  -o-transition: all .3s;
-  transition: all .3s;
+  -webkit-transition: all .3s, background 0s,background-color 0s;
+  -moz-transition: all .3s, background 0s,background-color 0s;
+  -o-transition: all .3s, background 0s,background-color 0s;
+  transition: all .3s, background 0s,background-color 0s;
   &:focus, &:active {
     outline: none;
   }
@@ -85,8 +72,8 @@
     }
     &.pressed {
       transform: scale(0.7);
-      background: transparent;
-      background-color: transparent;
+      background: grey ;
+      background-color: grey;
     }
   }
   @media (pointer:coarse) {
