@@ -193,7 +193,7 @@ https://user-images.githubusercontent.com/16251546/146669429-ae1dc399-cd7a-4c6e-
 
 https://user-images.githubusercontent.com/16251546/146669436-dff614aa-2ce5-46cc-8163-db73b2c2570e.mp4
 
-> <b>Note</b>: Fragment shader is based on [ARQVOID :: 240 chars](https://www.shadertoy.com/view/NscXR8/ "Check it out") [License: [CC&nbsp;BY-NC-SA&nbsp;3.0](https://www.shadertoy.com/terms "Go there"); Copyright ©️ 2021 ENDESGA]
+> <b>Note</b>: Fragment shader is based on [ARQVOID :: 240 chars](https://www.shadertoy.com/view/NscXR8/ "Check it out") [License: [CC&nbsp;BY-NC-SA&nbsp;3.0](https://www.shadertoy.com/terms "Go there"); Copyright ©️ 2021 ENDESGA & Xor]
 
 ### [mtw-canvas-blacksea](https://github.com/MyThemeWay/mtw-canvas-blacksea "Get it")
 
@@ -211,7 +211,7 @@ https://user-images.githubusercontent.com/16251546/146669441-251d9545-0164-442b-
 
 You can get a bright version [here](https://github.com/MyThemeWay/Light-Particle "Go there"):
 
-<a href="https://github.com/mythemeway/Light-Particle" title="Check it out" target="_blank"><img src="https://repository-images.githubusercontent.com/337746380/f0509e80-6bb5-11eb-9bab-59ccf55c3601" /></a>
+<a href="https://github.com/mythemeway/Light-Particle" title="Check it out" target="_blank"><img src="https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/light_social_preview.gif" /></a>
 
 ## More Information
 
