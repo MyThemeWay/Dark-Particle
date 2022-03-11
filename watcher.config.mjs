@@ -67,7 +67,7 @@ async function squoosh(encoder,encoderConfig,event,path,statsBefore) {
      });
   } else if ( event === 'unlink' )
     remove(targetPath)
-      .then( () =>
+      .then(() =>
         console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[removed]\x1b[0m'+projectLog))
       .catch(err => console.error(err))
 };
@@ -131,7 +131,7 @@ watcherImagemin.on('all', (event,path,statsBefore) => {
       .catch(err => console.error(err))
   else if ( event === 'unlink' )
     remove(targetPath)
-      .then( () => console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[removed]\x1b[0m'+projectLog))
+      .then(() => console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[removed]\x1b[0m'+projectLog))
       .catch(err => console.error(err))
 });
 
@@ -147,15 +147,15 @@ watcherSrcOther.on('all', (event,path) => {
   const targetPath = './docs/assets/'+path.replace(/^src\//, "");
   if ( event === 'addDir' )
     ensureDir(targetPath)
-      .then( () => { if ( projectLog ) console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[added]\x1b[0m'+projectLog) })
+      .then(() => { if ( projectLog ) console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[added]\x1b[0m'+projectLog) })
       .catch(err => console.error(err))
   else if (( event === 'add' ) || ( event === 'change' ))
     copy(path, targetPath)
-      .then( () => { if ( projectLog ) console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m['+event.substring(0,5)+'ed]\x1b[0m'+projectLog) })
+      .then(() => { if ( projectLog ) console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m['+event.substring(0,5)+'ed]\x1b[0m'+projectLog) })
       .catch(err => console.error(err))
   else if (( event === 'unlink' ) || ( event === 'unlinkDir' ))
     remove(targetPath)
-      .then( () => console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[removed]\x1b[0m'+projectLog))
+      .then(() => console.log('[\x1b[90mfs-extra\x1b[0m]: \x1b[35m'+basename(targetPath)+' \x1b[1;32m[removed]\x1b[0m'+projectLog))
       .catch(err => console.error(err))
 });
 
