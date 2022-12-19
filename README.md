@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Dark Particle Website Boilerplate</h1>
-<a href="https://github.com/mythemeway/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img height="25" src="https://img.shields.io/github/workflow/status/mythemeway/Dark-Particle/CodeQL?logo=github&label=CodeQL&cacheSeconds=3600" /></a>
+<a href="https://github.com/mythemeway/Dark-Particle/actions?query=workflow%3ACodeQL" title="Explore it" target="_blank"><img height="25" src="https://img.shields.io/github/actions/workflow/status/mythemeway/Dark-Particle/codeql-analysis.yml?branch=master&logo=github&label=CodeQL&cacheSeconds=3600" /></a>
 <a href="https://github.com/mythemeway/Dark-Particle/deployments/activity_log?environment=github-pages" title="Explore it" target="_blank"><img height="25" src="https://img.shields.io/github/deployments/mythemeway/Dark-Particle/github-pages?logo=github&label=State&cacheSeconds=3600" /></a>
 <a title="Check it out" target="_blank" href="https://mythemeway.github.io/Dark-Particle/"><img height="25" src="https://img.shields.io/website?url=https%3A%2F%2Fmythemeway.github.io/Dark-Particle&label=Website&cacheSeconds=3600" /></a>
 <img height="25" src="https://img.shields.io/github/languages/code-size/mythemeway/Dark-Particle?label=CodeSize&cacheSeconds=3600" />
